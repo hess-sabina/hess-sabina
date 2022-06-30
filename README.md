@@ -23,7 +23,7 @@
   
 
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" height="35"></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="30"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="35"></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" height="35"></a>
 
   
