@@ -21,3 +21,5 @@
 <br>
 <br>
 <a href="http://discordapp.com/users/970420809573224458" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-blue" /></a></p></details>
+
+  <a href="https://github.com/hess-sabina"><img src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="24"></a>
