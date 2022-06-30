@@ -17,7 +17,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></details></p>
 
 <details><summary><b><h4>🤝 Connect with me</h4></b></summary><br/>
- <p align="left"><a href="https://github.com/hess-sabina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <p align="left"><a href="https://github.com/hess-sabina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF/></a> 
 <br>
 <br>
 <a href="http://discordapp.com/users/970420809573224458" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-blue" /></a></p></details>
