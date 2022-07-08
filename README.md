@@ -2,7 +2,7 @@
 
 <details><summary><b><h4>🚶‍♀️ About me<h4></b></summary><br/>
 
-<p align="left">Hey, I am S. I am self-taught Full Stack Web Developer from Germany with educational experience in Design, currently living in Belgium. I am excited about my future in tech, to start new projects and to get to know a new community. Let me know if you have further questions!
+<p align="left">Hey, I am S. I am self-taught Full Stack Web Developer from Germany, currently living in Belgium. I am excited about my future in tech, to start new projects and to get to know a new community. Let me know if you have further questions!
 <br>
 <br>
   <p>⛰️ Current goal: Finish "The Odin Project"</p>
